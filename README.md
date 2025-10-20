@@ -18,4 +18,4 @@ This portfolio is designed to be fully responsive, ensuring a seamless experienc
 
   🔗 Live Demo
 
-Experience the live version of the portfolio here: https://silly-cheesecake-4ed32b.netlify.app/
+Experience the live version of the portfolio here: [(https://personal-portfolio-omega-sable-48.vercel.app/)]
