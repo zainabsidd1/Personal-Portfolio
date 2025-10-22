@@ -1,9 +1,9 @@
 🖥️ Responsive Portfolio Website
 
 This portfolio is designed to be fully responsive, ensuring a seamless experience across various devices, including desktops, tablets, and smartphones. It highlights my proficiency in:
-- HTML: Structuring content with semantic tags.
-- CSS: Crafting visually appealing layouts and animations.
-- JavaScript: Implementing interactive features and dynamic content.
+☆ HTML: Structuring content with semantic tags.
+☆ CSS: Crafting visually appealing layouts and animations.
+☆ JavaScript: Implementing interactive features and dynamic content.
 
 🚀 Features
 
@@ -18,4 +18,4 @@ This portfolio is designed to be fully responsive, ensuring a seamless experienc
 
 🔗 Live Demo
 
-Check it out here → [Personal Portfolio](https://personal-portfolio-omega-sable-48.vercel.app)
+Check it out here ◡̈ → [Personal Portfolio](https://personal-portfolio-omega-sable-48.vercel.app)
